@@ -27,7 +27,7 @@ Go to **[Releases](https://github.com/prodbymosca/BeatRender-Releases/releases/l
 | **YouTube** | Waitlist, scheduling, privacy, SEO tags, description templates, resumable upload |
 | **BeatStars** | Track pack uploads (audio + stems + artwork), link injected into the YouTube description |
 | **Cover Studio** | Pinterest "For you", advanced edit (48 looks, transform, adjust, FX, watermark), presets |
-| **Themes** | DAW palettes (FL Studio / Ableton / Cubase), custom themes, animated backgrounds |
+| **Themes** | Built-in presets, custom saved looks, animated backgrounds |
 
 ## 🔄 How updates work
 
