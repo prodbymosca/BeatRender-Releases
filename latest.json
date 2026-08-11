@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.5",
-    "url":  "https://github.com/prodbymosca/BeatRender-Releases/releases/download/v1.0.5/BeatRender_1.0.5_x64-setup.exe",
-    "sha256":  "sha256:47835e86ff94df9ca09e9b1e7967997f89e6763b7344001d3547dd59dcc6ef60",
+    "version":  "1.0.6",
+    "url":  "https://github.com/prodbymosca/BeatRender-Releases/releases/download/v1.0.6/BeatRender_1.0.6_x64-setup.exe",
+    "sha256":  "sha256:03fcd09cf7ec84c4a4666f2c0ade76d06e83959531965206baf1c7e211f2b07f",
     "notes":  "See the release page for details."
 }
